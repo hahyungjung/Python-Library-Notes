@@ -1,0 +1,19 @@
+numpy_index
+
+"""
+- Attributes of Arrays
+    Determining size / shape / memory consumption / data types of arrays
+
+- Indexing of Arrays
+    Getting and setting the value of individual array elements
+    
+- Slicing of Arrays
+    Getting and setting smaller subarrays within a larger array
+
+- Reshaping of Arrays
+    Changing the shape of a given array
+    
+- Joining and Splitting of Arrays
+    Combining multiple arrays into one, and splitting one array into many
+
+"""
