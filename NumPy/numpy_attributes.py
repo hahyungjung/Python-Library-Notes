@@ -2,20 +2,11 @@ numpy_attributes.py
 
 import numpy as np
 
-"""
-Commands 
-
-np.shape
-np.ndim
-np.dtype
-np.itemsize
-np.size
-
-"""
 
 # Ex 1
 
-vector = [1,2,3,4]
+vector = [1,2,3,4] # list
+
 print("shape:", np.array(vector, int).shape, 
       ", dimension:", np.array(vector, int).ndim,
       ", size:", np.array(vector, int).size )
